@@ -17,7 +17,7 @@ class CardGame:
 
   dif highest_card(self, card1 card2) # dif highest_card -> def highest_card - (self, card1 card2) -> (self, card1, card2) - () -> ():
     if card1.value > card2.value # if () -> if ():
-      return card
+      return card # card -> card1
     else # else -> else:
       return card2
  
